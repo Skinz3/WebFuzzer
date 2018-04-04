@@ -14,15 +14,15 @@ Il est possible de changer le nombre de caractère maximal, 'n' dans Form1.cs, l
 
 fuzzer.Start(2); avec un dictionnaire de {a,b,c} et une url : http://test.com testera les combinaisons:
 
-http://test.com/a
-http://test.com/b
-http://test.com/c
-http://test.com/aa
-http://test.com/ab
-http://test.com/ac
-http://test.com/ba
-http://test.com/bb
-http://test.com/bc
-http://test.com/ca
-http://test.com/cc
-http://test.com/cb.
+http://test.com/a <br />
+http://test.com/b <br />
+http://test.com/c <br />
+http://test.com/aa <br />
+http://test.com/ab <br />
+http://test.com/ac <br />
+http://test.com/ba <br />
+http://test.com/bb <br />
+http://test.com/bc  <br />
+http://test.com/ca <br />
+http://test.com/cc <br />
+http://test.com/cb. <br />
