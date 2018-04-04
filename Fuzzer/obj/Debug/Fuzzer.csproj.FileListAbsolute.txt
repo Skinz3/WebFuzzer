@@ -1,0 +1,10 @@
+C:\Users\Skinz\source\repos\Fuzzer\Fuzzer\bin\Debug\Fuzzer.exe.config
+C:\Users\Skinz\source\repos\Fuzzer\Fuzzer\bin\Debug\Fuzzer.exe
+C:\Users\Skinz\source\repos\Fuzzer\Fuzzer\bin\Debug\Fuzzer.pdb
+C:\Users\Skinz\source\repos\Fuzzer\Fuzzer\obj\Debug\Fuzzer.csprojResolveAssemblyReference.cache
+C:\Users\Skinz\source\repos\Fuzzer\Fuzzer\obj\Debug\Fuzzer.Form1.resources
+C:\Users\Skinz\source\repos\Fuzzer\Fuzzer\obj\Debug\Fuzzer.Properties.Resources.resources
+C:\Users\Skinz\source\repos\Fuzzer\Fuzzer\obj\Debug\Fuzzer.csproj.GenerateResource.Cache
+C:\Users\Skinz\source\repos\Fuzzer\Fuzzer\obj\Debug\Fuzzer.csproj.CoreCompileInputs.cache
+C:\Users\Skinz\source\repos\Fuzzer\Fuzzer\obj\Debug\Fuzzer.exe
+C:\Users\Skinz\source\repos\Fuzzer\Fuzzer\obj\Debug\Fuzzer.pdb
