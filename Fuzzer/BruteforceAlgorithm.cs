@@ -6,9 +6,6 @@ using System.Threading.Tasks;
 
 namespace Fuzzer
 {
-    /// <summary>
-    /// https://gist.github.com/jWoschitz/1129249
-    /// </summary>
     public class BruteforceAlgorithm
     {
         public event Action<int> OnStringLengthChanged;
